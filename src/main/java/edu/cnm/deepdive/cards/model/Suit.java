@@ -30,6 +30,5 @@ public enum Suit {
     BLACK,
     RED;
 
-
   }
 }
